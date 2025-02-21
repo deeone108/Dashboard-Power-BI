@@ -16,6 +16,6 @@ VanArsdel Dashboard power BI
 ﻿﻿
 ﻿﻿Average Sum of Revenue was higher for VanArsdel (1,889,043.50) than Competitors  (1,815,848.68).﻿﻿
 ﻿﻿
-﻿﻿Sum of Revenue for VanArsdel and Competitors  diverged the most when the MonthName was Jan, when VanArsdel were 175,857.15 higher than Competitors .﻿﻿
+﻿﻿Sum of Revenue for VanArsdel and Competitors  diverged the most when the MonthName was Jan, when VanArsdel were 175,857.15 higher than other Competitors
 ﻿﻿
 ﻿
